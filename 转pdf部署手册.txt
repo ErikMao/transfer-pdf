@@ -1,0 +1,4 @@
+1. 有关open office的部署手册全部废除，增加该部署文档补充，若安装过openoffice，则需卸载
+2. 解压MicrosoftOffice_2007_XiTongZhiJia.rar，点击setup.exe，安装全部使用默认安装即可，使用密钥：office_2007密钥.txt
+3. SaveAsPDFandXPS.exe，使用默认安装即可
+4. jacob-1.18-x64.dll放到 Java安装目录下的：..Java\jdk1.7.0_51\bin中，如C:\Program Files\Java\jdk1.7.0_51\bin
